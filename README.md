@@ -8,4 +8,5 @@
 - 💞️ I’m looking to collaborate on Selenuium with Python
 - 📫 How to reach me Sreejareddy.mandapati@gmail.com
 
-Brief Introduction about Myself: I am Lakshmi Priyanka.I am working as a Software Tester at QualityLogic since November 2020.I would like to Improve my skills in Automation Testing. I am intersted in learning Selenium with Python and I also have Basic Knowledge on Tableau and Python Language.If anyone intersted in learning with me, Please Contact me ar Sreejareddy.mandapati@gmail.com.Thank You
+Brief Introduction about Myself: 
+I am Lakshmi Priyanka.I am working as a Software Tester at QualityLogic since November 2020.I would like to Improve my skills in Automation Testing. I am intersted in learning Selenium with Python and I also have Basic Knowledge on Tableau and Python Language.If anyone intersted in learning with me, Please Contact me at Sreejareddy.mandapati@gmail.com.Thank You
